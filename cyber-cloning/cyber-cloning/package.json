@@ -1,0 +1,1 @@
+{"name":"cyber-cloning","version":"1.0.0","engines":{"node":">=18"},"dependencies":{"archiver":"^7.0.1","cheerio":"^1.0.0"}}
